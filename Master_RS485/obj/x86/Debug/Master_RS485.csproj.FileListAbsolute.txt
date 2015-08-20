@@ -1,0 +1,17 @@
+c:\users\emanuellibo\documents\visual studio 2010\Projects\Master_RS485\Master_RS485\bin\Debug\Master_RS485.exe
+c:\users\emanuellibo\documents\visual studio 2010\Projects\Master_RS485\Master_RS485\bin\Debug\Master_RS485.pdb
+c:\users\emanuellibo\documents\visual studio 2010\Projects\Master_RS485\Master_RS485\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\emanuellibo\documents\visual studio 2010\Projects\Master_RS485\Master_RS485\obj\x86\Debug\Master_RS485.Form1.resources
+c:\users\emanuellibo\documents\visual studio 2010\Projects\Master_RS485\Master_RS485\obj\x86\Debug\Master_RS485.Properties.Resources.resources
+c:\users\emanuellibo\documents\visual studio 2010\Projects\Master_RS485\Master_RS485\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\emanuellibo\documents\visual studio 2010\Projects\Master_RS485\Master_RS485\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\emanuellibo\documents\visual studio 2010\Projects\Master_RS485\Master_RS485\obj\x86\Debug\Master_RS485.exe
+c:\users\emanuellibo\documents\visual studio 2010\Projects\Master_RS485\Master_RS485\obj\x86\Debug\Master_RS485.pdb
+C:\Users\Astrata Software\Documents\Visual Studio 2013\Projects\Master_RS485\Master_RS485\obj\x86\Debug\Master_RS485.exe
+C:\Users\Astrata Software\Documents\Visual Studio 2013\Projects\Master_RS485\Master_RS485\obj\x86\Debug\Master_RS485.pdb
+C:\Users\Astrata Software\Documents\Visual Studio 2013\Projects\Master_RS485\Master_RS485\bin\Debug\Master_RS485.exe
+C:\Users\Astrata Software\Documents\Visual Studio 2013\Projects\Master_RS485\Master_RS485\bin\Debug\Master_RS485.pdb
+C:\Users\Astrata Software\Documents\Visual Studio 2013\Projects\Master_RS485\Master_RS485\obj\x86\Debug\Master_RS485.csprojResolveAssemblyReference.cache
+C:\Users\Astrata Software\Documents\Visual Studio 2013\Projects\Master_RS485\Master_RS485\obj\x86\Debug\Master_RS485.Form1.resources
+C:\Users\Astrata Software\Documents\Visual Studio 2013\Projects\Master_RS485\Master_RS485\obj\x86\Debug\Master_RS485.Properties.Resources.resources
+C:\Users\Astrata Software\Documents\Visual Studio 2013\Projects\Master_RS485\Master_RS485\obj\x86\Debug\Master_RS485.csproj.GenerateResource.Cache
